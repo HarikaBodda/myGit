@@ -1,1 +1,1 @@
-# myGit
+This is my firt git repository
